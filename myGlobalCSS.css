@@ -3,6 +3,7 @@
     /*font-family: 'Fira Mono', monospace;*/
     /*font-family: 'Roboto Mono', monospace;*/
 }
-html{
-    background-color:red;
+
+p{
+    background-color: rgb(0, 110, 255);
 }
